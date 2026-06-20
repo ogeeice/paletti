@@ -12,17 +12,17 @@ Dynamic Geometric Blueprints: Elegant, dashed vector lines trace the mathematica
 
 Harmony Rules: Instantly compute classical harmonies:
 
-Analogous
+- Analogous
 
-Monochromatic
+- Monochromatic
 
-Complementary
+- Complementary
 
-Split Complementary
+- Split Complementary
 
-Triadic
+- Triadic
 
-Tetradic
+- Tetradic
 
 Locked Swatches: Lock specific color cubes to preserve them while generating random variations for the unlocked slots.
 
