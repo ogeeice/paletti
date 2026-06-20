@@ -4,6 +4,8 @@ A minimalist, geometric color harmony lab designed for creators, designers, and 
 
 PALETTI is an interactive, browser-based color scheme generator that mathematically computes color harmonies in real-time. Featuring a high-DPI razor-sharp color wheel, dynamic geometric line overlays, and smart swatch locking, it delivers an ultra-clean, distraction-free environment to discover, fine-tune, and export beautiful color palettes.
 
+Visit the site https://ogeeice.github.io/paletti/
+
 ✨ Features
 
 Interactive Color Wheel: High-DPI (Retina) scaled color canvas ensuring smooth, pixel-perfect, and crisp color projections.
